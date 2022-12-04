@@ -1,4 +1,4 @@
-lines = open("input.txt","r").readlines()
+lines = open("input1.txt","r").readlines()
 
 topelf = []
 currTotal = 0

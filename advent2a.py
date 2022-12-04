@@ -1,5 +1,4 @@
-lines = open("input.txt","r").readlines()
-
+lines = open("input2.txt","r").readlines()
 
 def rpsWinner(p1,p2):
 	if p1 == "A": # p1 -> rock

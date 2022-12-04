@@ -1,4 +1,4 @@
-lines = open("input.txt","r").readlines()
+lines = open("input3.txt","r").readlines()
 
 def calcPriority(char):
 	priority = 0
